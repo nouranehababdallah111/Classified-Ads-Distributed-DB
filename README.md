@@ -1,6 +1,6 @@
 # Distributed Classified Ads System
 
-> A university project for the **Distributed Databases** course — modeling a classified ads platform (similar to Dubizzle/OLX) using a distributed database architecture across multiple servers.
+> A C2C classified ads platform designed and implemented on a distributed relational database architecture, with data partitioned across two physically separated Microsoft SQL Server instances based on functional domain.
 
 ---
 
